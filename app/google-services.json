@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464460554955",
+    "project_id": "noteapp-dee18",
+    "storage_bucket": "noteapp-dee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464460554955:android:515e9ce050383ed5f5f14e",
+        "android_client_info": {
+          "package_name": "com.example.noteappfirebasecompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMoN84q4AhTFemEfDErQLQjDnY3D689eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
